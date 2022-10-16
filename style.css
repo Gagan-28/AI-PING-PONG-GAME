@@ -1,0 +1,33 @@
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+    display: inline;
+}
+.heading button
+{
+    float: right;
+    border: 1px solid white;
+}
+#play_button, #status, #restart_button
+{
+    font-size: 22px;
+}
+.copyright_footer
+{
+    background-color: grey;
+    color: white;
+    width: 100%;
+    margin-top: 50px;
+    line-height: 2;
+    font-size: 18px;
+}
+canvas
+{
+    border: 4px solid white;
+    border-radius: 20px;
+    box-shadow: 7px 7px 5px white;
+}
